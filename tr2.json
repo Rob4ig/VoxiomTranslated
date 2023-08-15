@@ -69,65 +69,6 @@
         ]
     },
     {
-        "class": "sc-jOxtWs exMOCY",
-        "values": [
-            {
-                "original": "Capture The Gems",
-                "translation": "Захват кристаллов"
-            }
-        ]
-    },
-    {
-        "class": "sc-jOxtWs glVnGM",
-        "values": [
-            {
-                "original": "Battle Royale",
-                "translation": "Королевская битва"
-            }
-        ]
-    },
-    {
-        "class": "sc-lcepkR iwRvvA",
-        "values": [
-            {
-                "original": "Games Played",
-                "translation": "Игр сыграно"
-            },
-            {
-                "original": "Games Won",
-                "translation": "Игр выиграно"
-            },
-            {
-                "original": "Win %",
-                "translation": "Процент побед"
-            },
-            {
-                "original": "Kills",
-                "translation": "Убийства"
-            },
-            {
-                "original": "Deaths",
-                "translation": "Смерти"
-            },
-            {
-                "original": "KDR",
-                "translation": "KDR"
-            },
-            {
-                "original": "Captures",
-                "translation": "Захваты"
-            },
-            {
-                "original": "Time Survived",
-                "translation": "Время жизни"
-            },
-            {
-                "original": "Score",
-                "translation": "Очки"
-            }
-        ]
-    },
-    {
         "class": "sc-jJoQJp fRtCid",
         "values": [
             {
@@ -137,15 +78,6 @@
             {
                 "original": "Play",
                 "translation": "Играть"
-            }
-        ]
-    },
-    {
-        "class": "sc-jObWnj jCtviM",
-        "values": [
-            {
-                "original": "Join our community",
-                "translation": "Присоединяйся к коммьюнити игры"
             }
         ]
     },
