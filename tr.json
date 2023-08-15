@@ -1,12 +1,5 @@
 {
-    "Friends": {
-        "text": "Друзья",
-        "imgSrc": "https://voxiom.io/package/561b26986b5489c71284.png"
-    },
-    "Clans": {
-        "text": "Кланы",
-        "imgSrc": "https://voxiom.io/package/f219eab7973b5ab639f6.png"
-    },
+
     "Game": "Игра",
     "Account": "Аккаунт",
     "Leaderboard": "Лидеры",
