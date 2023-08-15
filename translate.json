@@ -1,112 +1,54 @@
 {
-    '/friends': {
+    'Friends': {
         text: 'Друзья',
         imgSrc: 'https://voxiom.io/package/561b26986b5489c71284.png'
     },
-    '/clans': {
+    'Clans': {
         text: 'Кланы',
         imgSrc: 'https://voxiom.io/package/f219eab7973b5ab639f6.png'
     },
-
-
-    '/': {
-        text: 'Играть'
-    },
-
-
-    '/account': {
-        text: 'Аккаунт'
-    },
-    '/account/ctg': {
-        text: 'Захват Кристаллов'
-    },
-    '/account/br': {
-        text: 'Королевская Битва'
-    },
-
-
-    '/friends/list': {
-        text: 'Список друзей'
-    },
-    '/friends/requests': {
-        text: 'Запросы в друзья'
-    },
-
-
-    '/shop/crates': {
-        text: 'Магазин'
-    },
-    '/shop/misc': {
-        text: 'Разное'
-    },
-    '/shop/gems': {
-        text: 'Гемы'
-    },
-
-
-    '/loadouts': {
-        text: 'Склад'
-    },
-    '/loadouts/inventory': {
-        text: 'Инвентарь'
-    },
-    '/loadouts/market': {
-        text: 'Маркет'
-    },
-    '/loadouts/sales': {
-        text: 'Продажи'
-    },
-    '/loadouts/history': {
-        text: 'История покупок'
-    },
-
-
-    '/clans/active': {
-        text: 'Мой клан'
-    },
-    '/clans/search': {
-        text: 'Искать кланы'
-    },
-    '/clans/invites': {
-        text: 'Приглашения в клан'
-    },
-    '/clans/requests': {
-        text: 'Запросы в клан'
-    },
-    '/clans/join': {
-        text: 'Присоединиться к клану'
-    },
-    '/clans/create': {
-        text: 'Создать клан'
-    },
-    '/clans/bans': {
-        text: 'Список банов'
-    },
-
-
-    '/changelog': {
-        text: 'Обновления'
-    },
-
-
-    '/auth/logout': {
-        text: 'Выйти'
-    },
-
-
-    '/leaderboard/all': {
-        text: 'Всё'
-    },
-    '/leaderboard/all?sort=level': {
-        text: 'Уровень'
-    },
-    '/leaderboard/all?sort=score': {
-        text: 'Счёт'
-    },
-    '/leaderboard/ctg': {
-        text: 'Захват Кристаллов'
-    },
-    '/leaderboard/br': {
-        text: 'Королевская Битва'
-    }
+    //panel
+    'Game': 'Игра',
+    'Account': 'Аккаунт',
+    'Leaderboard': 'Лидеры',
+    'Loadouts': 'Склад',
+    'Shop': 'Магазин',
+    'Updates': 'Обновления',
+    'Logout': 'Выйти',
+    //friends
+    'Friends List': 'Список друзей',
+    'Friend Requests': 'Запросы в друзья',
+    //clans
+    'My Clan': 'Мой клан',
+    'Browse Clans': 'Искать кланы',
+    'Invites Sent': 'Отправленные приглашения',
+    'Join Requests': 'Запросы в клан',
+    'Ban List': 'Список банов',
+    'Create Clan': 'Создать клан',
+    'Join Clan': 'Присоединиться к клану',
+    'Invites Received': 'Полученные приглашения',
+    'Join Requests Sent': 'Запросы в клан',
+    //account & leaderboard
+    'Capture The Gems': 'Захват кристаллов',
+    'Battle Royale': 'Королевская битва',
+    'View Details': 'Детали',
+    'All': 'Всё',
+    'Level': 'Уровень',
+    'Day': 'День',
+    'Week': 'Неделя',
+    'All Time': 'Всё время',
+    'Score': 'Счёт',
+    'Games Won': 'Выйграно игр',
+    'Kills': 'Убийства',
+    'Captures': 'Захваты',
+    'Survival Time': 'Время выживания',
+    //loadouts
+    'Inventory': 'Инвентарь',
+    'Player Market': 'Торговая площадка',
+    'My Listed Items': 'Мои продажи',
+    'My Market History': 'Моя история покупок',
+    //shop
+    'Crates': 'Ящики',
+    'Misc': 'Разное',
+    'Vox Gems': 'Вокс гемы',
 }
