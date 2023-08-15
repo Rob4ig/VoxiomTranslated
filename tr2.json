@@ -1,24 +1,26 @@
 {
-    "sc-dqhCBx bVefSq": {
-        "Logout": "Выход"
-    },
-    "sc-jJoQJp fRtCid": {
-        "Region": "Регион",
-        "Play": "Играть"
-    },
-    "sc-hiCibw igNAJT": {
-        "Capture The Gems": "Захват кристаллов"
-    },
-    "Dropdown-option": {
-        "US West (San Francisco)": "США Запад (Сан-Франциско)",
-        "US East (New York City)": "США Восток (Нью-Йорк)",
-        "Europe (Amsterdam)": "Европа (Амстердам)",
-        "Asia (Singapore)": "Азия (Сингапур)"
-    },
-    "Dropdown-placeholder is-selected": {
-        "US West (San Francisco)": "США Запад (Сан-Франциско)",
-        "US East (New York City)": "США Восток (Нью-Йорк)",
-        "Europe (Amsterdam)": "Европа (Амстердам)",
-        "Asia (Singapore)": "Азия (Сингапур)"
+    "translations": {
+        "sc-dqhCBx bVefSq": {
+            "Logout": "Выход"
+        },
+        "sc-jJoQJp fRtCid": {
+            "Region": "Регион",
+            "Play": "Играть"
+        },
+        "sc-hiCibw igNAJT": {
+            "Capture The Gems": "Захват кристаллов"
+        },
+        "Dropdown-option": {
+            "US West (San Francisco)": "США Запад (Сан-Франциско)",
+            "US East (New York City)": "США Восток (Нью-Йорк)",
+            "Europe (Amsterdam)": "Европа (Амстердам)",
+            "Asia (Singapore)": "Азия (Сингапур)"
+        },
+        "Dropdown-placeholder is-selected": {
+            "US West (San Francisco)": "США Запад (Сан-Франциско)",
+            "US East (New York City)": "США Восток (Нью-Йорк)",
+            "Europe (Amsterdam)": "Европа (Амстердам)",
+            "Asia (Singapore)": "Азия (Сингапур)"
+        }
     }
 }
