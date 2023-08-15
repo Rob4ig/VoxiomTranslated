@@ -62,6 +62,25 @@
             "US East (New York City)": "Восток США (Нью-Йорк)",
             "Europe (Amsterdam)": "Европа (Амстердам)",
             "Asia (Singapore)": "Азия (Сингапур)"
+        },
+                "sc-gIBqdA jbjwZx active": {
+            "Capture The Gems": "Захват кристаллов",
+            "Battle Royale": "Королевская битва"
+        },
+        "sc-gIBqdA jbjwZx": {
+            "Capture The Gems": "Захват кристаллов",
+            "Battle Royale": "Королевская битва"
+        },
+        "sc-eWfVMQ fNRzXp": {
+            "Games Played": "Игр сыграно",
+            "Games Won": "Игр выйграно",
+            "Win %": "% выйгрыша",
+            "Kills": "Убийства",
+            "Deaths": "Смерти",
+            "KDR": "КДР",
+            "Captures": "Захваты",
+            "Time Survived": "Время выживания",
+            "Score": "Счёи"
         }
     }
 }
