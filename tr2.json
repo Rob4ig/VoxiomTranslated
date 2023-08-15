@@ -21,7 +21,12 @@
         },
         "sc-jJoQJp fRtCid": {
             "Region": "Регион",
-            "Play": "Играть"
+            "Play": "Играть",
+            "Play Experimental Games": "Экспериментальные игры"
+        },
+        "sc-jIkXHa iKnwBi": {
+            "Survival": "Выживание",
+            "Custom Game": "Пользовательская игра"
         },
         "Dropdown-option": {
             "US West (San Francisco)": "США Запад (Сан-Франциско)",
