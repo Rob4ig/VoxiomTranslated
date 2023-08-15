@@ -1,5 +1,13 @@
 {
     "translations": {
+        "sc-ctKHVw YECSn active": {
+            "Game": "Играть",
+            "Account": "Аккаунт",
+            "Leaderboard": "Таблица лидеров",
+            "Loadouts": "Склад",
+            "Shop": "Магазин",
+            "Updates": "Обновления"
+        },
         "sc-ctKHVw YECSn": {
             "Game": "Играть",
             "Account": "Аккаунт",
