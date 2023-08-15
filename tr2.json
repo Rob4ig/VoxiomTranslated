@@ -29,16 +29,21 @@
             "Custom Game": "Пользовательская игра"
         },
         "Dropdown-option": {
-            "US West (San Francisco)": "США Запад (Сан-Франциско)",
-            "US East (New York City)": "США Восток (Нью-Йорк)",
+            "US West (San Francisco)": "Запад США (Сан-Франциско)",
+            "US East (New York City)": "Восток США (Нью-Йорк)",
             "Europe (Amsterdam)": "Европа (Амстердам)",
             "Asia (Singapore)": "Азия (Сингапур)"
         },
         "Dropdown-placeholder is-selected": {
-            "US West (San Francisco)": "США Запад (Сан-Франциско)",
-            "US East (New York City)": "США Восток (Нью-Йорк)",
+            "US West (San Francisco)": "Запад США (Сан-Франциско)",
+            "US East (New York City)": "Восток США (Нью-Йорк)",
             "Europe (Amsterdam)": "Европа (Амстердам)",
             "Asia (Singapore)": "Азия (Сингапур)"
+        },
+        "MainTitles": {
+            "Capture The Gems": "Захват кристаллов",
+            "Battle Royale": "Королевская битва",
+            "Free For All": "Сам за себя"
         }
     }
 }
