@@ -1,8 +1,6 @@
 {
     "translations": {
         "sc-ctKHVw YECSn active": {
-        },
-        "sc-dqhCBx bVefSq": {
             "Game": "Играть",
             "Account": "Играть",
             "Leaderboard": "Таблица лдеров",
@@ -30,5 +28,4 @@
             "Asia (Singapore)": "Азия (Сингапур)"
         }
     }
-
 }
