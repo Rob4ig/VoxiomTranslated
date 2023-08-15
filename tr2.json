@@ -63,7 +63,7 @@
             "Europe (Amsterdam)": "Европа (Амстердам)",
             "Asia (Singapore)": "Азия (Сингапур)"
         },
-                "sc-gIBqdA jbjwZx active": {
+        "sc-gIBqdA jbjwZx active": {
             "Capture The Gems": "Захват кристаллов",
             "Battle Royale": "Королевская битва"
         },
@@ -82,11 +82,24 @@
             "Time Survived": "Время выживания",
             "Score": "Счёт"
         },
+        "sc-iWVNaa eyFRIg": {
+            "Match History": "История матчей"
+        },
         "sc-JkixQ hIGWbS": {
             "Victory": "Победа"
         },
-        "sc-cHzqoD ixwXIr": {
-            "Defeat": "Поражение"
+        "sc-iWVNaa eyFRIg": {
+            "Match History": "История матчей"
+        },
+        "sc-ewSTlh cLiuLr": {
+            "Map:": "Карта: ",
+            "Time:": "Время: ",
+            "Duration:": "Время игры: ",
+            "Kills:": "Убийства: ",
+            "Deaths:": "Смерти: ",
+            "Captures:": "Захваты: ",
+            "Survival Time:": "Время выживания: ",
+            "Score:": "Счёт: "
         }
     }
 }
