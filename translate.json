@@ -7,7 +7,7 @@
         text: 'Кланы',
         imgSrc: 'https://voxiom.io/package/f219eab7973b5ab639f6.png'
     },
-    //panel
+
     'Game': 'Игра',
     'Account': 'Аккаунт',
     'Leaderboard': 'Лидеры',
@@ -15,10 +15,10 @@
     'Shop': 'Магазин',
     'Updates': 'Обновления',
     'Logout': 'Выйти',
-    //friends
+
     'Friends List': 'Список друзей',
     'Friend Requests': 'Запросы в друзья',
-    //clans
+
     'My Clan': 'Мой клан',
     'Browse Clans': 'Искать кланы',
     'Invites Sent': 'Отправленные приглашения',
@@ -28,7 +28,7 @@
     'Join Clan': 'Присоединиться к клану',
     'Invites Received': 'Полученные приглашения',
     'Join Requests Sent': 'Запросы в клан',
-    //account & leaderboard
+
     'Capture The Gems': 'Захват кристаллов',
     'Battle Royale': 'Королевская битва',
     'View Details': 'Детали',
@@ -42,13 +42,13 @@
     'Kills': 'Убийства',
     'Captures': 'Захваты',
     'Survival Time': 'Время выживания',
-    //loadouts
+
     'Inventory': 'Инвентарь',
     'Player Market': 'Торговая площадка',
     'My Listed Items': 'Мои продажи',
     'My Market History': 'Моя история покупок',
-    //shop
+
     'Crates': 'Ящики',
     'Misc': 'Разное',
-    'Vox Gems': 'Вокс гемы',
+    'Vox Gems': 'Вокс гемы'
 }
