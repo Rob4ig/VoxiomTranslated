@@ -74,13 +74,13 @@
         "sc-eWfVMQ fNRzXp": {
             "Games Played": "Игр сыграно",
             "Games Won": "Игр выйграно",
-            "Win %": "% выйгрыша",
+            "Win %": "% побед",
             "Kills": "Убийства",
             "Deaths": "Смерти",
             "KDR": "КДР",
             "Captures": "Захваты",
             "Time Survived": "Время выживания",
-            "Score": "Счёи"
+            "Score": "Счёт"
         }
     }
 }
