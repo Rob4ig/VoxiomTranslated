@@ -1,135 +1,28 @@
 [
     {
-        "name": "Меню",
-        "class": "sc-ctKHVw YECSn",
-        "values": [
-            {
-                "original": "Game",
-                "translation": "Игра"
-            },
-            {
-                "original": "Account",
-                "translation": "Аккаунт"
-            },
-            {
-                "original": "Leaderboard",
-                "translation": "Таблица лидеров"
-            },
-            {
-                "original": "Loadouts",
-                "translation": "Склад"
-            },
-            {
-                "original": "Shop",
-                "translation": "Магазин"
-            },
-            {
-                "original": "Updates",
-                "translation": "Обновления"
-            }
-        ]
-    },
-    {
-        "name": "Меню active",
-        "class": "sc-ctKHVw YECSn active",
-        "values": [
-            {
-                "original": "Game",
-                "translation": "Игра"
-            },
-            {
-                "original": "Account",
-                "translation": "Аккаунт"
-            },
-            {
-                "original": "Leaderboard",
-                "translation": "Таблица лидеров"
-            },
-            {
-                "original": "Loadouts",
-                "translation": "Склад"
-            },
-            {
-                "original": "Shop",
-                "translation": "Магазин"
-            },
-            {
-                "original": "Updates",
-                "translation": "Обновления"
-            }
-        ]
-    },
-    {
-        "class": "sc-dqhCBx bVefSq",
-        "values": [
-            {
-                "original": "Logout",
-                "translation": "Выход"
-            }
-        ]
-    },
-    {
-        "class": "sc-jJoQJp fRtCid",
-        "values": [
-            {
-                "original": "Region",
-                "translation": "Регион"
-            },
-            {
-                "original": "Play",
-                "translation": "Играть"
-            }
-        ]
-    },
-    {
-        "class": "sc-hiCibw igNAJT",
-        "values": [
-            {
-                "original": "Capture The Gems",
-                "translation": "Захват кристаллов"
-            }
-        ]
-    },
-    {
-        "class": "Dropdown-option",
-        "values": [
-            {
-                "original": "US West (San Francisco)",
-                "translation": "США Запад (Сан-Франциско)"
-            },
-            {
-                "original": "US East (New York City)",
-                "translation": "США Восток (Нью-Йорк)"
-            },
-            {
-                "original": "Europe (Amsterdam)",
-                "translation": "Европа (Амстердам)"
-            },
-            {
-                "original": "Asia (Singapore)",
-                "translation": "Азия (Сингапур)"
-            }
-        ]
-    },
-    {
-        "class": "Dropdown-placeholder is-selected",
-        "values": [
-            {
-                "original": "US West (San Francisco)",
-                "translation": "США Запад (Сан-Франциско)"
-            },
-            {
-                "original": "US East (New York City)",
-                "translation": "США Восток (Нью-Йорк)"
-            },
-            {
-                "original": "Europe (Amsterdam)",
-                "translation": "Европа (Амстердам)"
-            },
-            {
-                "original": "Asia (Singapore)",
-                "translation": "Азия (Сингапур)"
-            }
-        ]
+        "Меню": "Меню",
+        "Меню active": "Меню active",
+        "sc-dqhCBx bVefSq": {
+            "Logout": "Выход"
+        },
+        "sc-jJoQJp fRtCid": {
+            "Region": "Регион",
+            "Play": "Играть"
+        },
+        "sc-hiCibw igNAJT": {
+            "Capture The Gems": "Захват кристаллов"
+        },
+        "Dropdown-option": {
+            "US West (San Francisco)": "США Запад (Сан-Франциско)",
+            "US East (New York City)": "США Восток (Нью-Йорк)",
+            "Europe (Amsterdam)": "Европа (Амстердам)",
+            "Asia (Singapore)": "Азия (Сингапур)"
+        },
+        "Dropdown-placeholder is-selected": {
+            "US West (San Francisco)": "США Запад (Сан-Франциско)",
+            "US East (New York City)": "США Восток (Нью-Йорк)",
+            "Europe (Amsterdam)": "Европа (Амстердам)",
+            "Asia (Singapore)": "Азия (Сингапур)"
+        }
     }
 ]
