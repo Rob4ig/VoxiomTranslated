@@ -1,6 +1,6 @@
 {
     "translations": {
-        //panel
+
         "sc-ctKHVw YECSn active": {
             "Game": "Играть",
             "Account": "Аккаунт",
@@ -20,7 +20,7 @@
         "sc-dqhCBx bVefSq": {
             "Logout": "Выход"
         },
-        //titles
+
         "sc-faIbUi gIfJjz": {
             "Friends": "Друзья",
         },
@@ -36,7 +36,7 @@
         "Update Patch Notes": {
             "Update Patch Notes": "Список обновлений",
         },
-        //main
+
         "MainTitles": {
             "Capture The Gems": "Захват кристаллов",
             "Battle Royale": "Королевская битва",
