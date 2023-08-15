@@ -82,8 +82,10 @@
             "Time Survived": "Время выживания",
             "Score": "Счёт"
         },
-                "sc-JkixQ hIGWbS": {
-            "Victory": "Победа",
+        "sc-JkixQ hIGWbS": {
+            "Victory": "Победа"
+        },
+        "sc-cHzqoD ixwXIr": {
             "Defeat": "Поражение"
         }
     }
