@@ -1,43 +1,35 @@
-function updateLinks() {
-    let a = document.getElementsByTagName('a')
-    const url = new URL(window.location.href)
-    const playerName = url.pathname.split('/').pop()
-    const paths = [
-        "/player/" + playerName,
-        "/player/" + playerName + "/ctg",
-        "/player/" + playerName + "/br"
-    ];
+//put this script to your extension
 
-    for (let i = 0; i < a.length; i++) {
-        let href = a[i].getAttribute('href')
-
-        // main /leaderboard
-        const leaderboardLink = document.querySelector("a.YECSn[href='/leaderboard/ctg']")
-        if (leaderboardLink) {
-            leaderboardLink.textContent = "Лидеры"
+function updateTranslations(translations) {
+    var elements = document.querySelectorAll('[class]')
+    for (var i = 0; i < elements.length; i++) {
+        var element = elements[i]
+        var classTranslations = translations[element.getAttribute('class')]
+        if (!classTranslations) {
+            continue
         }
-
-        // /player
-        if (href && paths.includes(href)) {
-            if (href.endsWith(`/ctg`)) {
-                a[i].textContent = 'Захват Кристаллов'
-            }
-            if (href.endsWith(`/br`)) {
-                a[i].textContent = 'Королевская Битва'
+        for (var key in classTranslations) {
+            if (classTranslations.hasOwnProperty(key)) {
+                var value = classTranslations[key]
+                if (element.textContent.trim() === key) {
+                    element.textContent = value
+                }
             }
         }
-
-        // other
-        if (linkInfo.hasOwnProperty(href)) {
-            a[i].innerHTML = '';
-            if (linkInfo[href].hasOwnProperty('imgSrc')) {
-                let img = document.createElement('img')
-                img.src = linkInfo[href].imgSrc
-                a[i].appendChild(img)
-            }
-            a[i].appendChild(document.createTextNode(linkInfo[href].text))
+    }
+    let mainTitle = document.querySelectorAll('.sc-hiCibw.igNAJT > div')
+    for (var m = 0; m < mainTitle.length; m++) {
+        var mainTitleTranslations = translations.MainTitles
+        if (mainTitleTranslations.hasOwnProperty(mainTitle[m].textContent)) {
+            mainTitle[m].innerText = mainTitleTranslations[mainTitle[m].textContent]
         }
     }
 }
-updateLinks()
-setInterval(updateLinks, 100)
+
+function loadTranslations() {
+    fetch('https://raw.githubusercontent.com/TheMasterRob4ig/Voxiom.ioTranslated/main/tr2.json')
+        .then(response => response.json())
+        .then(data => updateTranslations(data.translations))
+}
+
+setInterval(loadTranslations, 100)
