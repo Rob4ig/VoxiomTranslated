@@ -1,54 +1,48 @@
 {
-    'Friends': {
-        text: 'Друзья',
-        imgSrc: 'https://voxiom.io/package/561b26986b5489c71284.png'
+    "Friends": {
+        "text": "Друзья",
+        "imgSrc": "https://voxiom.io/package/561b26986b5489c71284.png"
     },
-    'Clans': {
-        text: 'Кланы',
-        imgSrc: 'https://voxiom.io/package/f219eab7973b5ab639f6.png'
+    "Clans": {
+        "text": "Кланы",
+        "imgSrc": "https://voxiom.io/package/f219eab7973b5ab639f6.png"
     },
-
-    'Game': 'Игра',
-    'Account': 'Аккаунт',
-    'Leaderboard': 'Лидеры',
-    'Loadouts': 'Склад',
-    'Shop': 'Магазин',
-    'Updates': 'Обновления',
-    'Logout': 'Выйти',
-
-    'Friends List': 'Список друзей',
-    'Friend Requests': 'Запросы в друзья',
-
-    'My Clan': 'Мой клан',
-    'Browse Clans': 'Искать кланы',
-    'Invites Sent': 'Отправленные приглашения',
-    'Join Requests': 'Запросы в клан',
-    'Ban List': 'Список банов',
-    'Create Clan': 'Создать клан',
-    'Join Clan': 'Присоединиться к клану',
-    'Invites Received': 'Полученные приглашения',
-    'Join Requests Sent': 'Запросы в клан',
-
-    'Capture The Gems': 'Захват кристаллов',
-    'Battle Royale': 'Королевская битва',
-    'View Details': 'Детали',
-    'All': 'Всё',
-    'Level': 'Уровень',
-    'Day': 'День',
-    'Week': 'Неделя',
-    'All Time': 'Всё время',
-    'Score': 'Счёт',
-    'Games Won': 'Выйграно игр',
-    'Kills': 'Убийства',
-    'Captures': 'Захваты',
-    'Survival Time': 'Время выживания',
-
-    'Inventory': 'Инвентарь',
-    'Player Market': 'Торговая площадка',
-    'My Listed Items': 'Мои продажи',
-    'My Market History': 'Моя история покупок',
-
-    'Crates': 'Ящики',
-    'Misc': 'Разное',
-    'Vox Gems': 'Вокс гемы'
+    "Game": "Игра",
+    "Account": "Аккаунт",
+    "Leaderboard": "Лидеры",
+    "Loadouts": "Склад",
+    "Shop": "Магазин",
+    "Updates": "Обновления",
+    "Logout": "Выйти",
+    "Friends List": "Список друзей",
+    "Friend Requests": "Запросы в друзья",
+    "My Clan": "Мой клан",
+    "Browse Clans": "Искать кланы",
+    "Invites Sent": "Отправленные приглашения",
+    "Join Requests": "Запросы в клан",
+    "Ban List": "Список банов",
+    "Create Clan": "Создать клан",
+    "Join Clan": "Присоединиться к клану",
+    "Invites Received": "Полученные приглашения",
+    "Join Requests Sent": "Запросы в клан",
+    "Capture The Gems": "Захват кристаллов",
+    "Battle Royale": "Королевская битва",
+    "View Details": "Детали",
+    "All": "Всё",
+    "Level": "Уровень",
+    "Day": "День",
+    "Week": "Неделя",
+    "All Time": "Всё время",
+    "Score": "Счёт",
+    "Games Won": "Выйграно игр",
+    "Kills": "Убийства",
+    "Captures": "Захваты",
+    "Survival Time": "Время выживания",
+    "Inventory": "Инвентарь",
+    "Player Market": "Торговая площадка",
+    "My Listed Items": "Мои продажи",
+    "My Market History": "Моя история покупок",
+    "Crates": "Ящики",
+    "Misc": "Разное",
+    "Vox Gems": "Вокс гемы"
 }
