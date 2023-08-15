@@ -1,6 +1,5 @@
 {
     "translations": {
-
         "sc-ctKHVw YECSn active": {
             "Game": "Играть",
             "Account": "Аккаунт",
@@ -20,7 +19,6 @@
         "sc-dqhCBx bVefSq": {
             "Logout": "Выход"
         },
-
         "sc-faIbUi gIfJjz": {
             "Friends": "Друзья"
         },
@@ -36,7 +34,6 @@
         "Update Patch Notes": {
             "Update Patch Notes": "Список обновлений"
         },
-
         "MainTitles": {
             "Capture The Gems": "Захват кристаллов",
             "Battle Royale": "Королевская битва",
@@ -87,9 +84,6 @@
         },
         "sc-JkixQ hIGWbS": {
             "Victory": "Победа"
-        },
-        "sc-iWVNaa eyFRIg": {
-            "Match History": "История матчей"
         },
         "sc-ewSTlh cLiuLr": {
             "Map:": "Карта: ",
