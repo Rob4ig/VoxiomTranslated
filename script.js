@@ -27,7 +27,7 @@ function updateTranslations(translations) {
 }
 
 function loadTranslations() {
-    fetch('https://raw.githubusercontent.com/TheMasterRob4ig/Voxiom.ioTranslated/main/tr.json')
+    fetch('https://raw.githubusercontent.com/TheMasterRob4ig/VoxiomTranslated/main/tr.json')
         .then(response => response.json())
         .then(data => updateTranslations(data.translations))
 }
