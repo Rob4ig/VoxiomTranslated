@@ -1,5 +1,9 @@
 {
     "translations": {
+        ".sc-llYSUQ.jIHuvv": {
+                "Friends": "Друзья",
+                "Clans": "Кланы"
+        },
         ".sc-ctKHVw.YECSn.active": {
             "Game": "Играть",
             "Account": "Аккаунт",
@@ -8,10 +12,158 @@
             "Shop": "Магазин",
             "Updates": "Обновления"
         },
+        ".sc-ctKHVw.YECSn": {
+            "Game": "Играть",
+            "Account": "Аккаунт",
+            "Leaderboard": "Таблица лидеров",
+            "Loadouts": "Склад",
+            "Shop": "Магазин",
+            "Updates": "Обновления"
+        },
+        ".sc-dqhCBx.bVefSq": {
+            "Logout": "Выход"
+        },
+        ".sc-faIbUi.gIfJjz": {
+            "Friends": "Друзья"
+        },
+        ".sc-fezjOJ.ghuTRV": {
+            "Clans": "Кланы"
+        },
+        ".sc-kqnjJL.iKTcSL": {
+            "Loadouts": "Склад"
+        },
+        ".sc-jaskfy.grKevD": {
+            "Shop": "Магазин"
+        },
+        ".sc-ksHpcM.iVBhsj": {
+            "Update Patch Notes": "Список обновлений"
+        },
         ".sc-hiCibw.igNAJT > div": {
             "Capture The Gems": "Захват кристаллов",
             "Battle Royale": "Королевская битва",
             "Free For All": "Каждый сам за себя"
+        },
+        ".sc-jJoQJp.fRtCid": {
+            "Region": "Регион",
+            "Play": "Играть",
+            "Play Experimental Games": "Экспериментальные игры"
+        },
+        ".sc-jIkXHa.iKnwBi": {
+            "Survival": "Выживание",
+            "Custom Game": "Пользовательская игра"
+        },
+        ".Dropdown-option": {
+            "US West (San Francisco)": "Запад США (Сан-Франциско)",
+            "US East (New York City)": "Восток США (Нью-Йорк)",
+            "Europe (Amsterdam)": "Европа (Амстердам)",
+            "Asia (Singapore)": "Азия (Сингапур)"
+        },
+        ".Dropdown-placeholder.is-selected": {
+            "US West (San Francisco)": "Запад США (Сан-Франциско)",
+            "US East (New York City)": "Восток США (Нью-Йорк)",
+            "Europe (Amsterdam)": "Европа (Амстердам)",
+            "Asia (Singapore)": "Азия (Сингапур)"
+        },
+        ".sc-gIBqdA.jbjwZx.active": {
+            "Capture The Gems": "Захват кристаллов",
+            "Battle Royale": "Королевская битва"
+        },
+        ".sc-gIBqdA.jbjwZx": {
+            "Capture The Gems": "Захват кристаллов",
+            "Battle Royale": "Королевская битва"
+        },
+        ".sc-jOxtWs.exMOCY": {
+            "Capture The Gems":"Захват кристаллов"
+        },
+        ".sc-jOxtWs.glVnGM": {
+            "Battle Royale":"Королевская битва"
+        },
+        ".sc-eWfVMQ.fNRzXp": {
+            "Games Played": "Игр сыграно",
+            "Games Won": "Игр выиграно",
+            "Win %": "% побед",
+            "Kills": "Убийства",
+            "Deaths": "Смерти",
+            "KDR": "КДР",
+            "Captures": "Захваты",
+            "Time Survived": "Время выживания",
+            "Score": "Счёт"
+        },
+        ".sc-lcepkR.iwRvvA": {
+            "Games Played": "Игр сыграно",
+            "Games Won": "Игр выиграно",
+            "Win %": "% побед",
+            "Kills": "Убийства",
+            "Deaths": "Смерти",
+            "KDR": "КДР",
+            "Captures": "Захваты",
+            "Time Survived": "Время выживания",
+            "Score": "Счёт"
+        },
+        ".sc-iWVNaa.eyFRIg": {
+            "Match History": "История матчей"
+        },
+        ".sc-JkixQ.hIGWbS": {
+            "Victory": "Победа"
+        },
+        ".sc-cHzqoD.ixwXIr": {
+            "Defeat": "Поражение"
+        },
+        ".sc-ewSTlh.cLiuLr": {
+            "Map:": "Карта: ",
+            "Time:": "Время: ",
+            "Duration:": "Время игры: ",
+            "Kills:": "Убийства: ",
+            "Deaths:": "Смерти: ",
+            "Captures:": "Захваты: ",
+            "Survival Time:": "Время выживания: ",
+            "Score:": "Счёт: "
+        },
+        ".sc-hJZKUC.guVumh": {
+            "View Details": "Смотреть детали"
+        },
+        ".sc-knKHOI.hEKUAW.active": {
+            "Friends List": "Список друзей",
+            "Friend Requests": "Запросы в друзья",
+            "My Clan": "Мой клан",
+            "Browse Clans": "Искать кланы",
+            "Invites Sent": "Приглашения в клан",
+            "Join Requests": "Запросы в клан",
+            "Ban List": "Список банов",
+            "Invites Received": "Полученные приглашения",
+            "Join Requests Sent": "Отправленные запросы",
+            "Inventory": "Инвентарь",
+            "Player Market": "Торговая площадка",
+            "My Listed Items": "Мои активные продажи",
+            "My Market History": "Моя история продаж",
+            "Crates": "Ящики",
+            "Misc": "Разное",
+            "Vox Gems": "Вокс гемы"
+        },
+        ".sc-knKHOI.hEKUAW": {
+            "Friends List": "Список друзей",
+            "Friend Requests": "Запросы в друзья",
+            "My Clan": "Мой клан",
+            "Browse Clans": "Искать кланы",
+            "Invites Sent": "Приглашения в клан",
+            "Join Requests": "Запросы в клан",
+            "Ban List": "Список банов",
+            "Invites Received": "Полученные приглашения",
+            "Join Requests Sent": "Отправленные запросы",
+            "Inventory": "Инвентарь",
+            "Player Market": "Торговая площадка",
+            "My Listed Items": "Мои активные продажи",
+            "My Market History": "Моя история продаж",
+            "Crates": "Ящики",
+            "Misc": "Разное",
+            "Vox Gems": "Вокс гемы"
+        },
+        ".sc-cQMzAB.hRFyHw": {
+            "General": "Основные",
+            "Video": "Графика",
+            "Keybinds": "Управление",
+            "Crosshair": "Прицел",
+            "Modding": "Текстуры"
         }
     }
 }
