@@ -1,35 +1,15 @@
-//put this script to your extension
-
-function updateTranslations(translations) {
-    var elements = document.querySelectorAll('[class]')
-    for (var i = 0; i < elements.length; i++) {
-        var element = elements[i]
-        var classTranslations = translations[element.getAttribute('class')]
-        if (!classTranslations) {
-            continue
-        }
-        for (var key in classTranslations) {
-            if (classTranslations.hasOwnProperty(key)) {
-                var value = classTranslations[key]
+function trUpdate(words) {
+    for (let classes in words) {
+        let translations = words[classes]
+        document.querySelectorAll(classes).forEach(element => {
+            for (let key in translations) {
                 if (element.textContent.trim() === key) {
-                    element.textContent = value
+                    element.textContent = translations[key]
                 }
             }
-        }
-    }
-    let mainTitle = document.querySelectorAll('.sc-hiCibw.igNAJT > div')
-    for (var m = 0; m < mainTitle.length; m++) {
-        var mainTitleTranslations = translations.MainTitles
-        if (mainTitleTranslations.hasOwnProperty(mainTitle[m].textContent)) {
-            mainTitle[m].innerText = mainTitleTranslations[mainTitle[m].textContent]
-        }
+        })
     }
 }
-
-function loadTranslations() {
-    fetch('https://raw.githubusercontent.com/TheMasterRob4ig/VoxiomTranslated/main/tr.json')
-        .then(response => response.json())
-        .then(data => updateTranslations(data.translations))
-}
-
-setInterval(loadTranslations, 100)
+fetch('https://raw.githubusercontent.com/TheMasterRob4ig/VoxiomTranslated/main/tr.json')
+    .then(response => response.json())
+    .then(data => setInterval(() => trUpdate(data.translations), 100))
