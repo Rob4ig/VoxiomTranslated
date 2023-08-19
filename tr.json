@@ -230,7 +230,7 @@
             "Show ammo shells when firing weapon": "Показывать боеприпас при стрельбе"
         },
         ".sc-dYPfWK.pFjsv": {
-            "Turn off the settings below might help reduce lag": "Отключите ниже функции чтобы уменьшить зависания."
+            "Turn off the settings below might help reduce lag": "Отключите ниже функции, чтобы уменьшить зависания"
         },
         ".sc-fivaXQ.OAMge": {
             "Move Left": "Шаг влево",
@@ -246,13 +246,13 @@
             "Inventory Helper Key": "Помощь в инвентаре",
             "Game Overview": "Статистика игроков",
             "Toggle Map": "Открыть карту",
-            "Toggle Player Menu": "Открыть меню игроков",
+            "Toggle Player Menu": "Открыть меню репортов",
             "Select Slot 1": "Выбрать слот 1",
             "Select Slot 2": "Выбрать слот 2",
             "Select Slot 3": "Выбрать слот 3",
             "Select Slot 4": "Выбрать слот 4",
             "Select Slot 5": "Выбрать слот 5",
-            "Interact / Pick Up": "Взаимодействовать / подобрать",
+            "Interact / Pick up": "Взаимодействовать / подобрать",
             "Spray": "Спрей",
             "Primary Action": "Первичное действие",
             "Secondary Action": "Вторичное действие"
@@ -283,6 +283,91 @@
         },
         ".sc-hWwfGH.hmiDqW": {
             "Menu": "Меню"
+        },
+        ".sc-jCHUfY.flhAvc": {
+            "Settings": "Настройки"
+        },
+        ".sc-lkgTHX.kQPydY": {
+            "All": "Все",
+            "Capture The Gems": "Захват кристаллов",
+            "Battle Royale": "Кор. битва"
+        },
+        ".sc-lkgTHX.kQPydY.nav-stats-item-active": {
+            "All": "Все",
+            "Capture The Gems": "Захват кристаллов",
+            "Battle Royale": "Кор. битва"
+        },
+        ".sc-eGPXGI.cCThLf": {
+            "Day": "День",
+            "Week": "Неделя",
+            "All Time": "Всё время",
+            "Score": "Счёт",
+            "Games Won": "Игр выйграно",
+            "Kills": "Убийства",
+            "Captures": "Захваты"
+        },
+        ".sc-eGPXGI.cCThLf.nav-stats-item-active": {
+            "Day": "День",
+            "Week": "Неделя",
+            "All Time": "Всё время",
+            "Score": "Счёт",
+            "Games Won": "Игр выйграно",
+            "Kills": "Убийства",
+            "Captures": "Захваты"
+        },
+        ".sc-jWUzzU.egphfS": {
+            "Level": "Уровень",
+            "Score": "Счёт"
+        },
+        ".sc-jWUzzU.egphfS.nav-stats-item-active": {
+            "Level": "Уровень",
+            "Score": "Счёт"
+        },
+        ".sc-gIDmLj.iwQGxq": {
+            "Day": "День",
+            "Week": "Неделя",
+            "All Time": "Всё время",
+            "Score": "Счёт",
+            "Games Won": "Игр выиграно",
+            "Kills": "Убийства",
+            "Survived Time": "Время выживания"
+        },
+        ".sc-gIDmLj.iwQGxq.nav-stats-item-active": {
+            "Day": "День",
+            "Week": "Неделя",
+            "All Time": "Всё время",
+            "Score": "Счёт",
+            "Games Won": "Игр выиграно",
+            "Kills": "Убийства",
+            "Survived Time": "Время выживания"
+        },
+        ".sc-XxNYO.eBMOqr": {
+            "Rank": "Место",
+            "Name": "Имя",
+            "Level": "Уровень",
+            "Games Played": "Игр сыграно",
+            "Games Won": "Игр выйграно",
+            "Kills": "Убийства",
+            "Deaths": "Смерти",
+            "Captures": "Захваты",
+            "Score": "Счёт"
+        },
+        ".sc-jHkVzv.cPeUZE": {
+            "Rank": "Место",
+            "Name": "Имя",
+            "Level": "Уровень",
+            "Score": "Счёт"
+        },
+        ".sc-eGRUor.jWQedv": {
+            "Rank": "Место",
+            "Name": "Имя",
+            "Level": "Уровень",
+            "Games Played": "Игр сыграно",
+            "Games Won": "Игр выиграно",
+            "Kills": "Убийства",
+            "Deaths": "Смерти",
+            "Survival Time": "Время выживания",
+            "Score": "Счёт"
         }
     }
 }
