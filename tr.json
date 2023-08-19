@@ -288,14 +288,14 @@
             "Settings": "Настройки"
         },
         ".sc-lkgTHX.kQPydY": {
-            "All": "Все",
+            "All": "Всё",
             "Capture The Gems": "Захват кристаллов",
-            "Battle Royale": "Кор. битва"
+            "Battle Royale": "Королевская битва"
         },
         ".sc-lkgTHX.kQPydY.nav-stats-item-active": {
-            "All": "Все",
+            "All": "Всё",
             "Capture The Gems": "Захват кристаллов",
-            "Battle Royale": "Кор. битва"
+            "Battle Royale": "Королевская битва"
         },
         ".sc-eGPXGI.cCThLf": {
             "Day": "День",
@@ -328,7 +328,7 @@
             "Week": "Неделя",
             "All Time": "Всё время",
             "Score": "Счёт",
-            "Games Won": "Игр выиграно",
+            "Games Won": "Игр выйграно",
             "Kills": "Убийства",
             "Survived Time": "Время выживания"
         },
@@ -337,7 +337,7 @@
             "Week": "Неделя",
             "All Time": "Всё время",
             "Score": "Счёт",
-            "Games Won": "Игр выиграно",
+            "Games Won": "Игр выйграно",
             "Kills": "Убийства",
             "Survived Time": "Время выживания"
         },
@@ -363,7 +363,7 @@
             "Name": "Имя",
             "Level": "Уровень",
             "Games Played": "Игр сыграно",
-            "Games Won": "Игр выиграно",
+            "Games Won": "Игр выйграно",
             "Kills": "Убийства",
             "Deaths": "Смерти",
             "Survival Time": "Время выживания",
