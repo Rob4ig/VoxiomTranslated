@@ -1,8 +1,8 @@
 {
     "translations": {
         ".sc-llYSUQ.jIHuvv": {
-                "Friends": "Друзья",
-                "Clans": "Кланы"
+            "Friends": "Друзья",
+            "Clans": "Кланы"
         },
         ".sc-ctKHVw.YECSn.active": {
             "Game": "Играть",
@@ -73,10 +73,10 @@
             "Battle Royale": "Королевская битва"
         },
         ".sc-jOxtWs.exMOCY": {
-            "Capture The Gems":"Захват кристаллов"
+            "Capture The Gems": "Захват кристаллов"
         },
         ".sc-jOxtWs.glVnGM": {
-            "Battle Royale":"Королевская битва"
+            "Battle Royale": "Королевская битва"
         },
         ".sc-eWfVMQ.fNRzXp": {
             "Games Played": "Игр сыграно",
@@ -153,6 +153,9 @@
             "Keybinds": "Управление",
             "Crosshair": "Прицел",
             "Modding": "Текстуры"
+        },
+        ".sc-jObWnj.jCtviM": {
+            "Join our community": "Наше комьюнити"
         }
     }
 }
