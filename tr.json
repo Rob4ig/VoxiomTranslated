@@ -155,12 +155,17 @@
             "Battle Royale": "Королевская битва"
         },
         ".sc-kNzDjo.csWefZ": {
-            "Rank": "Место"
+            "Rank": "Место",
+            "Name": "Имя",
+            "Kills": "Убийства",
+            "Deaths": "Смерти",
+            "Survival Time": "Время выживания",
+            "Score": "Счёт"
         },
         ".sc-cxVPaa.chFTMr": {
-            "Map: ": "Карта: ",
-            "Time: ": "Время: ",
-            "Duration: ": "Длительность: "
+            "Map:": "Карта: ",
+            "Time:": "Время: ",
+            "Duration:": "Длительность: "
         },
         ".sc-gsFzgR.bQvkau": {
             "Name": "Имя",
@@ -169,14 +174,18 @@
             "Captures": "Захваты",
             "Score": "Счёт"
         },
+        ".sc-cTAIfT.hPyFyL": {
+            "Sapphire": "Сапфиры",
+            "Ruby": "Рубины"
+        },
         ".sc-bePbDJ.ebOUIU": {
-            "Active Since": "Создан",
-            "Members": "Участников",
+            "Active Since": "Дата создания",
+            "Members": "Участники",
             "Minimum Level Requirement": "Минимальный уровень",
-            "Recruitment Status": "Тип набора"
+            "Recruitment Status": "Набор"
         },
         ".sc-eDtABA.fqhEfw": {
-            "Accepting Applications": "Принятие по заявке",
+            "Accepting Applications": "Вринятие по заявке",
             "Invite Only": "Только по приглашению",
             "Open": "Открытый"
         },
@@ -193,7 +202,7 @@
         ".sc-czvZiG.fWUAzE > div": {
             "Loading...": "Загрузка...",
             "There aren't any incoming join requests.": "В данный момент нет заявок в клан.",
-            "No one has been banned from this clan.": "Нету заблокированных игроков."
+            "No one has been banned from this clan.": "Нет заблокированных игроков."
         },
         ".sc-hDzdEj.bxrxDC": {
             "Commander": "Командир",
@@ -207,6 +216,7 @@
             "Scoped Sensitivity Multiplier": "Множитель чувствительности прицела",
             "General Field of View (FOV)": "Основной угол обзора",
             "First Person Model FOV": "Поле зрения от первого лица",
+            "ADS FOV Multiplier": "Множитель угла обзора при наведении",
             "Running FOV Multiplier": "Угол обзора во время бега",
             "Sound Volume": "Громкость",
             "Invert Y Axis": "Инвертировать ось Y",
@@ -223,17 +233,29 @@
             "Turn off the settings below might help reduce lag": "Отключите ниже функции чтобы уменьшить зависания."
         },
         ".sc-fivaXQ.OAMge": {
-            "Move Left": "Влево",
-            "Move Right": "Вправо",
-            "Move Forward": "Вперед",
-            "Move Backward": "Назад",
+            "Move Left": "Шаг влево",
+            "Move Right": "Шаг вправо",
+            "Move Forward": "Шаг вперед",
+            "Move Backward": "Шаг назад",
             "Jump": "Прыжок",
             "Sprint": "Бег",
-            "Crouch": "Краться",
-            "Drop Current Item": "Выкинуть предмет",
+            "Crouch": "Красться",
+            "Drop Current Item": "Выкинуть текущий предмет",
             "Reload": "Перезарядка",
             "Toggle Inventory": "Открыть инвентарь",
-            "Inventory Helper Key": "Помощь в инвентаре"
+            "Inventory Helper Key": "Помощь в инвентаре",
+            "Game Overview": "Статистика игроков",
+            "Toggle Map": "Открыть карту",
+            "Toggle Player Menu": "Открыть меню игроков",
+            "Select Slot 1": "Выбрать слот 1",
+            "Select Slot 2": "Выбрать слот 2",
+            "Select Slot 3": "Выбрать слот 3",
+            "Select Slot 4": "Выбрать слот 4",
+            "Select Slot 5": "Выбрать слот 5",
+            "Interact / Pick Up": "Взаимодействовать / подобрать",
+            "Spray": "Спрей",
+            "Primary Action": "Первичное действие",
+            "Secondary Action": "Вторичное действие"
         },
         ".sc-bxDdli.dIbEXE": {
             "Width": "Ширина",
@@ -246,8 +268,8 @@
         },
         ".sc-iuqRDJ.fEywaC": {
             "Terrain Texture URL": "Ссылка на текстуры",
-            "Sniper Scope Image URL": "Ссылка на прицел снайперской винтовки",
-            "Sniper Scope Image Opacity": "Прозрачность прицела снайперской винтовки",
+            "Sniper Scope Image URL": "Ссылка на прицел",
+            "Sniper Scope Image Opacity": "Прозрачность прицела",
             "Sniper Scope Image Scale X": "Масштаб прицела по оси X",
             "Sniper Scope Image Scale Y": "Масштаб прицела по оси Y",
             "Sniper Scope Background Color": "Цвет фона прицела",
